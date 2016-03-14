@@ -1,6 +1,14 @@
 # Project Template Liftweb and Spec2
 With this template you can easily start your liftweb project with spec2
 
+## Usage
+You must intall giter8 first (https://github.com/n8han/giter8)
+
+```bash
+$ g8 temon/griya-basic.g8
+```
+Done! just relax and start your code!
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
