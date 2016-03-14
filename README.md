@@ -1,4 +1,4 @@
-# Project-Template-Liftweb-and-Spec2
+# Project Template Liftweb and Spec2
 With this template you can easily start your liftweb project with spec2
 
 ## Contributing
